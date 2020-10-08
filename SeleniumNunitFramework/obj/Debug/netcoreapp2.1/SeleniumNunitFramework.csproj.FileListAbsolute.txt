@@ -1,0 +1,16 @@
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\bin\Debug\netcoreapp2.1\SeleniumNunitFramework.deps.json
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\bin\Debug\netcoreapp2.1\SeleniumNunitFramework.runtimeconfig.json
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\bin\Debug\netcoreapp2.1\SeleniumNunitFramework.runtimeconfig.dev.json
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\bin\Debug\netcoreapp2.1\SeleniumNunitFramework.dll
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\obj\Debug\netcoreapp2.1\SeleniumNunitFramework.csprojAssemblyReference.cache
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\obj\Debug\netcoreapp2.1\SeleniumNunitFramework.csproj.CoreCompileInputs.cache
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\obj\Debug\netcoreapp2.1\SeleniumNunitFramework.AssemblyInfoInputs.cache
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\obj\Debug\netcoreapp2.1\SeleniumNunitFramework.AssemblyInfo.cs
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\bin\Debug\netcoreapp2.1\SeleniumNunitFramework.pdb
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\obj\Debug\netcoreapp2.1\SeleniumNunitFramework.dll
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\obj\Debug\netcoreapp2.1\SeleniumNunitFramework.pdb
+C:\Users\padiyalp\source\repos\SeleniumNunitFramework\SeleniumNunitFramework\bin\Debug\netcoreapp2.1\config.json
